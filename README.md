@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **tishtisha13@gmail.com**
+- 📫 How to reach me **mughnirayhan22@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
