@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.Js**
 
 - 📫 How to reach me **mughnirayhan22@gmail.com**
 
