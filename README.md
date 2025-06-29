@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mughni Rayhan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 
 - 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **mughnirayhan22@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
