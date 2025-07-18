@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer</h3>
 
 
-- 🌱 I’m currently working on a project
+- 🌱 I’m currently learning Next.js
 
 - 📫 How to reach me **mughnirayhan22@gmail.com**
 
