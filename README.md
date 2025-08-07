@@ -4,6 +4,8 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
+<p align="center">
+  
   <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Coding" width="300" align="right"/>
 </p>
 
@@ -97,6 +99,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mughnirayhan" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mughnirayhan&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
@@ -104,9 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughnirayhan&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mughnirayhan" alt="GitHub Streak" />
-</p>
+
 
 ---
 
