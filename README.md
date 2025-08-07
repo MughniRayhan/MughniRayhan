@@ -1,4 +1,4 @@
-<img src="[https://github.com/MughniRayhan/MughniRayhan/blob/main/GitHub_Banner.png](https://github.com/MughniRayhan/MughniRayhan/blob/main/Banner.png)" alt="Banner"/>
+<img src="https://github.com/MughniRayhan/MughniRayhan/blob/main/Banner.png" alt="Banner"/>
 
 <h1 align="center">Hi 👋, I'm Mughni Rayhan</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
