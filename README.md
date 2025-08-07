@@ -11,11 +11,16 @@
 
 ### 💫 About Me
 
-- 💻 I’m a Frontend Developer experienced in **React.js**, **Tailwind CSS**, and **JavaScript**
-- 🌱 Currently learning **Next.js**
-- 🎯 Passionate about building real-time, scalable web apps
-- 🧠 Always exploring new technologies and tools
-- 📫 Reach me at: **mughnirayhan22@gmail.com**
+I'm Mughni Rayhan, a passionate web developer from Bangladesh with a strong interest in modern frontend technologies. I love building responsive, real-time, and user-friendly web applications. I'm always eager to explore new tools and frameworks to expand my skills and deliver better user experiences.
+
+---
+
+### 🔭 Current Activities
+
+- 🚀 Exploring **Next.js** and its full-stack capabilities
+- 🌐 Working on a **tourism website** to showcase destinations dynamically
+- 📘 Learning backend integration with **MongoDB** and **Firebase**
+- ✍️ Improving UI/UX design skills for better frontend aesthetics
 
 ---
 
