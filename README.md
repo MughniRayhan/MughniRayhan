@@ -1,3 +1,4 @@
+<img src="https://github.com/MughniRayhan/MughniRayhan/blob/main/GitHub_Banner.png" alt="Banner"/>
 <h1 align="center">Hi 👋, I'm Mughni Rayhan</h1>
 <h3 align="center">A passionate web developer</h3>
 
