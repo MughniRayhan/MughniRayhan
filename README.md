@@ -1,6 +1,6 @@
 <img src="https://github.com/MughniRayhan/MughniRayhan/blob/main/Banner.png" alt="Banner"/>
 
-<h1 align="center">Hi 👋, I'm Mughni Rayhan</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Mughni Rayhan</h1>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Web+Developer;Frontend+Developer;MERN+Stack+Developer;" alt="Typing SVG" align=center/></a>
 </div>
