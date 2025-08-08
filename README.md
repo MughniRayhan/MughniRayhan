@@ -101,23 +101,19 @@ I'm Mughni Rayhan, a passionate web developer from Bangladesh with a strong inte
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mughnirayhan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mughnirayhan&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughnirayhan&layout=compact&theme=tokyonight" />
-</p>
+
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mughnirayhan" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mughnirayhan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mughnirayhan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mughnirayhan&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughnirayhan&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughnirayhan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
