@@ -103,8 +103,8 @@ I'm Mughni Rayhan, a passionate web developer from Bangladesh with a strong inte
 
 
 <p align="center">
- <img src="https://img.shields.io/endpoint?url=https://streak-stats.demolab.com/api?user=mughnirayhan&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=mughnirayhan" alt="GitHub Streak" />
+</p> 
 
 
 <p align="center">
