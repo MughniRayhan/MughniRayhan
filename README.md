@@ -102,10 +102,8 @@ I'm Mughni Rayhan, a passionate web developer from Bangladesh with a strong inte
 ### 📊 GitHub Stats
 
 
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mughnirayhan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mughnirayhan&theme=default" alt="GitHub Streak" />
 </p>
 
 
