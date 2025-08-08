@@ -5,13 +5,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Web+Developer;Frontend+Developer;MERN+Stack+Developer;" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Coding" width="300" align="right"/>
-</p>
+
 
 ### 💫 About Me
 
 I'm Mughni Rayhan, a passionate web developer from Bangladesh with a strong interest in modern frontend technologies. I love building responsive, real-time, and user-friendly web applications. I'm always eager to explore new tools and frameworks to expand my skills and deliver better user experiences.
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Coding" width="300" align="right"/>
+</p>
 
 ---
 
