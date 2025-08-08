@@ -107,7 +107,9 @@ I'm Mughni Rayhan, a passionate web developer from Bangladesh with a strong inte
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mughnirayhan" alt="GitHub Streak" />
 </p> 
-
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mughnirayhan&theme=tokyonight&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mughnirayhan&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
